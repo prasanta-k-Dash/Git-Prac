@@ -1,1 +1,2 @@
 this is the first line of the a.txt file ok
+this is the second line of the code
